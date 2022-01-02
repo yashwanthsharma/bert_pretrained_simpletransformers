@@ -55,3 +55,4 @@
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
 *.bc filter=lfs diff=lfs merge=lfs -text
+*.1f48cab6c959fc6c360d22bea39d06959e90f5b002e77e836d2da45464875cda filter=lfs diff=lfs merge=lfs -text
